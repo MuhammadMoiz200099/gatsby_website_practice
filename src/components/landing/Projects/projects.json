@@ -1,0 +1,42 @@
+{
+    "projects": [
+        {
+            "name": "Fylo - Frontend Mentor",
+            "url": "https://fad95.github.io/fylo-dark-theme-landing-page-master/",
+            "image": "FrontendMentor-Fylo.png"
+        },
+        {
+            "name": "Rock, Paper or Scissors - Frontend Mentor",
+            "url": "https://rock-paper-scissors-eta.vercel.app/",
+            "image": "RockPaperScissors.png"
+        },
+        
+        {
+            "name": "Google Clone",
+            "url": "https://fad95.github.io/Google-Clone/",
+            "image": "GoogleClone.png"
+            
+        },
+        
+        {
+            "name": "Podcasts App",
+            "url": "https://next-js-eight-liart.now.sh/",
+            "image": "Podcasts.png"
+        },
+        {
+            "name": "Petgram App",
+            "url": "https://petgram-fad.now.sh/",
+            "image": "Petgram.png"
+        },
+        {
+            "name": "Platzi Swag App",
+            "url": "https://ps-fad.netlify.app/",
+            "image": "PlatziSwag.png"
+        },
+        {
+            "name": "Products App",
+            "url": "https://fad95.github.io/vanilla-products-app/",
+            "image": "ProductsApp.png"
+        }
+    ]
+}

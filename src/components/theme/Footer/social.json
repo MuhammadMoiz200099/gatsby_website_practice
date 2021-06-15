@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Telegram",
+    "link": "https://t.me/fxd42",
+    "icon": "/icons/telegram.svg"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/FAD95",
+    "icon": "/icons/github.svg"
+  },
+
+  {
+    "id": 2,
+    "name": "Twitter",
+    "link": "https://twitter.com/",
+    "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 3,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/fadesc/",
+    "icon": "/icons/linkedin.svg"
+  }
+]

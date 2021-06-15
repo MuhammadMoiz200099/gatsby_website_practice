@@ -1,0 +1,105 @@
+{
+    "courses": [
+        {
+            "name": "gatsby",
+            "image": "diploma-gatsby.jpg"
+        },
+        {
+            "name": "diploma next 2018",
+            "image": "diploma-next-2018.jpg"
+        },
+        {
+            "name": "diploma webpack",
+            "image": "diploma-webpack.jpg"
+        },
+        {
+            "name": "git github",
+            "image": "diploma-git-github.jpg"
+        },
+        {
+            "name": "diploma react",
+            "image": "diploma-react.jpg"
+        },
+        {
+            "name": "diploma react avanzado",
+            "image": "diploma-react-avanzado.jpg"
+        },
+        {
+            "name": "diploma react router",
+            "image": "diploma-react-router.jpg"
+        },
+        {
+            "name": "fundamentos node",
+            "image": "diploma-fundamentos-node.jpg"
+        },
+        {
+            "name": "backend-js",
+            "image": "diploma-backend-js.jpg"
+        },
+              
+        {
+            "name": "fundamentos javascript",
+            "image": "diploma-fundamentos-javascript.jpg"
+        },
+        {
+            "name": "diploma jquery js",
+            "image": "diploma-jquery-js.jpg"
+        },
+        {
+            "name": "diploma preprocesadores",
+            "image": "diploma-preprocesadores.jpg"
+        },
+        {
+            "name": "diploma responsive design",
+            "image": "diploma-responsive-design.jpg"
+        },
+        {
+            "name": "css grid layout",
+            "image": "diploma-css-grid-layout.jpg"            
+        },
+        {
+            "name": "diploma sass",
+            "image": "diploma-sass.jpg"
+        },      
+        {
+            "name": "bootstrap",
+            "image": "diploma-bootstrap.jpg"
+        },                
+        {
+            "name": "diploma html css",
+            "image": "diploma-html-css.jpg"
+        },
+        {
+            "name": "html5 css3",
+            "image": "diploma-html5-css3.jpg"
+        },
+        {
+            "name": "ingenieria",
+            "image": "diploma-ingenieria.jpg"
+        },
+        {
+            "name": "diploma-redes",
+            "image": "diploma-redes.jpg"
+        },
+        {
+            "name": "diploma ingles 1",
+            "image": "diploma-ingles-1.jpg"
+        },
+        {
+            "name": "diploma ingles 2",
+            "image": "diploma-ingles-2.jpg"
+        },
+        {
+            "name": "diploma ingles basico",
+            "image": "diploma-ingles-basico.jpg"
+        },
+        {
+            "name": "diploma ingles conversacion",
+            "image": "diploma-ingles-conversacion.jpg"
+        },
+        {
+            "name": "diploma ingles gramatica",
+            "image": "diploma-ingles-gramatica.jpg"
+        }      
+    ]
+}
